@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Wed Feb  5 17:04:33 2025
+# Process ID: 15972
+# Current directory: C:/Users/harri/Desktop/Vivado Projects/matrix_solid/matrix_solid.runs/impl_1
+# Command line: vivado.exe -log solidMatrix.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source solidMatrix.tcl -notrace
+# Log file: C:/Users/harri/Desktop/Vivado Projects/matrix_solid/matrix_solid.runs/impl_1/solidMatrix.vdi
+# Journal file: C:/Users/harri/Desktop/Vivado Projects/matrix_solid/matrix_solid.runs/impl_1\vivado.jou
+# Running On        :LAPTOP-BSFMT7OP
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :AMD Ryzen 7 5800U with Radeon Graphics         
+# CPU Frequency     :1896 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :16487 MB
+# Swap memory       :1073 MB
+# Total Virtual     :17561 MB
+# Available Virtual :4192 MB
+#-----------------------------------------------------------
+source solidMatrix.tcl -notrace
